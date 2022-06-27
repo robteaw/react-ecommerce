@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "urql": "^2.2.2"
+  }
+}
